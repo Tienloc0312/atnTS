@@ -168,7 +168,7 @@
             <div class="mainheader">
                 <ul>
                     <li><a href="http://localhost:8080/PBIT17102/Index.php">Trang chủ</a></li>
-                    <li><a href="https://www.thegioididong.com/">Giới Thiệu</a></li>
+                    <li><a href="http://localhost:8080/PBIT17102/login.php">Giới Thiệu</a></li>
                     <li><a href="http://localhost:8080/PBIT17102/login.php">Đăng Nhập</a></li>
                     <li><a href="http://localhost:8080/PBIT17102/register.php">Đăng ký</a></li>
                     <li><a href="http://localhost:8080/PBIT17102/add_product.php">Thêm Sản Phẩm</a></li>
@@ -180,15 +180,15 @@
                 <p>DANH MỤC SẢN PHẨM</p>
                 <div class="categoty">
                     <ul>
-                        <li><a href="">Jordan</a></li>
-                        <li><a href="">Giày Nike</a></li>
-                        <li><a href="">Giày Puma</a></li>
-                        <li><a href="">Vans</a></li>
-                        <li><a href="">Giày MCqueen</a></li>
-                        <li><a href="">Giày Louis Vuitton</a></li>
-                        <li><a href="">Giày Versace</a></li>
-                        <li><a href="">Giày Gucci</a></li>
-                        <li><a href="">Giày Adidas</a></li>
+                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Monkey D. Luffy</a></li>
+                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Roronoa Zoro </a></li>
+                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Sabo</a></li>
+                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Portgas D. Ace</a></li>
+                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Uzumaki Naruto</a></li>
+                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Uchiha Sasuke</a></li>
+                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Akatsuki</a></li>
+                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Son Goku</a></li>
+                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Son Gohan</a></li>
                     </ul>
                 </div>
             </div>

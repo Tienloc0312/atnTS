@@ -195,15 +195,15 @@
                 <p>DANH MỤC SẢN PHẨM</p>
                 <div class="categoty">
                     <ul>
-                        <li><a href="">Monkey D. Luffy</a></li>
-                        <li><a href="">Roronoa Zoro </a></li>
-                        <li><a href="">Sabo</a></li>
-                        <li><a href="">Portgas D. Ace</a></li>
-                        <li><a href="">Uzumaki Naruto</a></li>
-                        <li><a href="">Uchiha Sasuke</a></li>
-                        <li><a href="">Akatsuki</a></li>
-                        <li><a href="">Son Goku</a></li>
-                        <li><a href="">Son Gohan</a></li>
+                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Monkey D. Luffy</a></li>
+                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Roronoa Zoro </a></li>
+                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Sabo</a></li>
+                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Portgas D. Ace</a></li>
+                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Uzumaki Naruto</a></li>
+                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Uchiha Sasuke</a></li>
+                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Akatsuki</a></li>
+                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Son Goku</a></li>
+                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Son Gohan</a></li>
                     </ul>
                 </div>
             </div>

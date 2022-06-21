@@ -150,13 +150,13 @@
 		<div class="content">
 			<div class="single-product">
 				<div class="one">
-					<img src="https://shopgiayreplica.com/wp-content/uploads/2018/12/converse-1970s-high-off-white-replica-6.jpg" style="float:right;width: 220px;height: 220px;">
-				<p><b style="color:black;">Converse Chuck 1970s Off White Cao Cổ</b></p>
+					<img src="luutruanh/sanpham1.jpg" style="float:right;width: 220px;height: 220px;">
+				<p><b style="color:black;">Naruto Tien Nhanh Rensin</b></p>
 				<form>
 					<table border="1px">
 						<tr>
 							<td>Giá Tiền</td>
-							<td>798.000đ</td>
+							<td>2.500$</td>
 						</tr>
 						<tr>
 							<td>Tình trạng mặt hàng</td>
@@ -173,13 +173,13 @@
 					</table>
 				</form>
 				<div class="one">
-					<img src="https://shopgiayreplica.com/wp-content/uploads/2021/08/Jordan-1-Zoom-PSG.jpg" style="float:right;width: 220px;height: 220px;">
-				<p><b style="color:black;">Nike Air Jordan 1 Zoom Air PSG Paris Saint-Germain Like Auth</b></p>
+					<img src="luutruanh/sanpham2.jpg" style="float:right;width: 220px;height: 220px;">
+				<p><b style="color:black;">Sasuke Rensin Susanoo</b></p>
 				<form>
 					<table border="1px">
 						<tr>
 							<td>Giá Tiền</td>
-							<td>1.800.000đ</td>
+							<td>1.500$</td>
 						</tr>
 						<tr>
 							<td>Tình trạng mặt hàng</td>
@@ -196,13 +196,13 @@
 					</table>
 				</form>
 				<div class="one">
-					<img src="https://shopgiayreplica.com/wp-content/uploads/2021/10/air-jordan-1-low-smoke-grey-v3-800x599.png" style="float:right;width: 220px;height: 220px;">
-				<p><b style="color:black;">Giày Nike Air Jordan 1 Low Smoke Grey V3 Rep 1:1</b></p>
+					<img src="luutruanh/sanpham3.jpg" style="float:right;width: 220px;height: 220px;">
+				<p><b style="color:black;">Akatsuki</b></p>
 				<form>
 					<table border="1px">
 						<tr>
 							<td>Giá Tiền</td>
-							<td>1.190.000</td>
+							<td>3000$</td>
 						</tr>
 						<tr>
 							<td>Tình trạng mặt hàng</td>
@@ -219,13 +219,13 @@
 					</table>
 				</form>
 				<div class="one">
-					<img src="https://shopgiayreplica.com/wp-content/uploads/2021/11/nike-air-force-1-low-an20-white.jpg" style="float:right;width: 220px;height: 220px;">
-				<p><b style="color:black;">Giày Nike Air Force 1 ’07 AN20 White Black Swoosh Rep 1:1</b></p>
+					<img src="luutruanh/sanpham4.jpg" style="float:right;width: 220px;height: 220px;">
+				<p><b style="color:black;">Luffy Gear 2</b></p>
 				<form>
 					<table border="1px">
 						<tr>
 							<td>Giá Tiền</td>
-							<td>798.000</td>
+							<td>1.500$</td>
 						</tr>
 						<tr>
 							<td>Tình trạng mặt hàng</td>
@@ -242,13 +242,13 @@
 					</table>
 				</form>
 				<div class="one">
-					<img src="https://shopgiayreplica.com/wp-content/uploads/2021/08/vans-vault-2021-og-old-skool-800x600.jpg" style="float:right;width: 220px;height: 220px;">
-				<p><b style="color:black;">Vans Vault Old Skool Black 2021</b></p>
+					<img src="luutruanh/sanpham5.jpg" style="float:right;width: 220px;height: 220px;">
+				<p><b style="color:black;">Luffy Gear 4</b></p>
 				<form>
 					<table border="1px">
 						<tr>
 							<td>Giá Tiền</td>
-							<td>798.000</td>
+							<td>5.000$</td>
 						</tr>
 						<tr>
 							<td>Tình trạng mặt hàng</td>
@@ -257,28 +257,6 @@
 						<tr>
 							<td>Mã</td>
 							<td>CC15</td>
-						</tr>
-						<tr>
-							<td>Danh mục</td>
-							<td>Từ khóa</td>
-						</tr>
-					</table>
-				</form><div class="one">
-					<img src="https://shopgiayreplica.com/wp-content/uploads/2021/09/Nike-Air-Force-1-07-QS-Love-Lett-800x600.jpg" style="float:right;width: 220px;height: 220px;">
-				<p><b style="color:black;">Nike Air Force 1 07 QS Valentine’s Day Love Letter</b></p>
-				<form>
-					<table border="1px">
-						<tr>
-							<td>Giá Tiền</td>
-							<td>1.090.000 </td>
-						</tr>
-						<tr>
-							<td>Tình trạng mặt hàng</td>
-							<td>còn Hàng</td>
-						</tr>
-						<tr>
-							<td>Mã</td>
-							<td>CC16</td>
 						</tr>
 						<tr>
 							<td>Danh mục</td>
