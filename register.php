@@ -76,7 +76,6 @@
 	      	$username= $_POST['username'];
 	      	$password= $_POST['password'];
 	      	$sql ="INSERT INTO user VALUES('$userid','$username','$password')";
-	      	mysqli_set_charset($connect, 'UTF8');
 	      	$result= mysqli_Query($connect,$sql);
 	      if($result){
 	      	echo "<br>";
