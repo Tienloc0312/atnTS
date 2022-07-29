@@ -45,7 +45,7 @@ session_start();
 				<td><input type="submit" name="login" value="login"></td>
 				<td>
 					<button type="submit" name="register">
-					    <a href="http://localhost:8080/PBIT17102/register.php">Register</a>
+					    <a href="register.php" target="_blank">Register</a>
 				    </button>
 				</td>
 			</tr>
@@ -54,7 +54,7 @@ session_start();
 	</div>
 	<?php 
 	//Kết nối theo Mysqli procedural
-	$connect = mysqli_connect('localhost','root','','mydb');
+	$connect = mysqli_connect('3.132.234.157','tienloc','tienloc123','tsasm');
 	if($connect){
 		echo " ";
 	}

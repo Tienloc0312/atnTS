@@ -136,11 +136,11 @@
             </div>
             <div class="mainheader">
                 <ul>
-                    <li><a href="http://localhost:8080/PBIT17102/Index.php">Trang chủ</a></li>
-                    <li><a href="http://localhost:8080/PBIT17102/gioithieu.php">Giới Thiệu</a></li>
-                    <li><a href="http://localhost:8080/PBIT17102/login.php">Đăng Nhập</a></li>
-                    <li><a href="http://localhost:8080/PBIT17102/register.php">Đăng ký</a></li>
-                    <li><a href="http://localhost:8080/PBIT17102/add_product.php">Thêm Sản Phẩm</a></li>
+                    <li><a href="Index.php" target="_blank">Trang chủ</a></li>
+                    <li><a href="gioithieu.php" target="_blank">Giới Thiệu</a></li>
+                    <li><a href="login.php" target="_blank">Đăng Nhập</a></li>
+                    <li><a href="register.php" target="_blank">Đăng ký</a></li>
+                    <li><a href="add_product.php" target="_blank">Thêm Sản Phẩm</a></li>
                 </ul>
             </div>
         </div>

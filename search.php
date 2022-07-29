@@ -167,11 +167,11 @@
             </div>
             <div class="mainheader">
                 <ul>
-                    <li><a href="http://localhost:8080/PBIT17102/Index.php">Trang chủ</a></li>
-                    <li><a href="http://localhost:8080/PBIT17102/login.php">Giới Thiệu</a></li>
-                    <li><a href="http://localhost:8080/PBIT17102/login.php">Đăng Nhập</a></li>
-                    <li><a href="http://localhost:8080/PBIT17102/register.php">Đăng ký</a></li>
-                    <li><a href="http://localhost:8080/PBIT17102/add_product.php">Thêm Sản Phẩm</a></li>
+                    <li><a href="Index.php"target="_blank">Trang chủ</a></li>
+                    <li><a href="Index.php"target="_blank">Giới Thiệu</a></li>
+                    <li><a href="login.php"target="_blank">Đăng Nhập</a></li>
+                    <li><a href="register.php"target="_blank">Đăng ký</a></li>
+                    <li><a href="add_product.php"target="_blank">Thêm Sản Phẩm</a></li>
                 </ul>
             </div>
         </div>
@@ -180,21 +180,21 @@
                 <p>DANH MỤC SẢN PHẨM</p>
                 <div class="categoty">
                     <ul>
-                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Monkey D. Luffy</a></li>
-                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Roronoa Zoro </a></li>
-                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Sabo</a></li>
-                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Portgas D. Ace</a></li>
-                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Uzumaki Naruto</a></li>
-                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Uchiha Sasuke</a></li>
-                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Akatsuki</a></li>
-                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Son Goku</a></li>
-                        <li><a href="http://localhost:8080/PBIT17102/Index.php">Son Gohan</a></li>
+                        <li><a href="Index.php"target="_blank">Monkey D. Luffy</a></li>
+                        <li><a href="Index.php"target="_blank">Roronoa Zoro </a></li>
+                        <li><a href="Index.php"target="_blank">Sabo</a></li>
+                        <li><a href="Index.php"target="_blank">Portgas D. Ace</a></li>
+                        <li><a href="Index.php"target="_blank">Uzumaki Naruto</a></li>
+                        <li><a href="Index.php"target="_blank">Uchiha Sasuke</a></li>
+                        <li><a href="Index.php"target="_blank">Akatsuki</a></li>
+                        <li><a href="Index.php"target="_blank">Son Goku</a></li>
+                        <li><a href="Index.php"target="_blank">Son Gohan</a></li>
                     </ul>
                 </div>
             </div>
             <div class="right">
                 <?php
-                $connect = mysqli_connect('localhost','root','','mydb');
+                $connect = mysqli_connect('3.132.234.157','tienloc','tienloc123','tsasm');
                 if($connect){
                     echo " ";
                 }
@@ -220,7 +220,7 @@
                         <h3>$product_name</h3>
                         <img src='$product_img' width='180' height='180' />
                         <p><b> Price:$product_price </b></p>
-                        <a href='http://localhost:8080/PBIT17102/detail.php'>Details</a>
+                        <a href='detail.php'target='_blank'>Details</a>
                         <a href='index.php?add_cart=$product_id'>
                         </a>            
                         </div>       

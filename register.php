@@ -62,7 +62,7 @@
 			</table>
 		</div>
 	   <?php 
-	      $connect =mysqli_connect('localhost','root','','mydb');
+	      $connect =mysqli_connect('3.132.234.157','tienloc','tienloc123','tsasm');
 	      if($connect){
 	      	echo "kết nối thành công";
 	      }
@@ -76,11 +76,12 @@
 	      	$username= $_POST['username'];
 	      	$password= $_POST['password'];
 	      	$sql ="INSERT INTO user VALUES('$userid','$username','$password')";
+	      	mysqli_set_charset($connect, 'UTF8');
 	      	$result= mysqli_Query($connect,$sql);
 	      if($result){
 	      	echo "<br>";
 	      	echo "<script> alert('thêm mới thành công')</script>";
-	      	header("location:login.php");
+	      	header("login.php"'_self');
 	      }
 	      else{
 	      	echo "<script> alert('thêm mới thất bại')</script>";
