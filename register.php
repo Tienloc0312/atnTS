@@ -62,7 +62,7 @@
 			</table>
 		</div>
 	   <?php 
-	      $connect =mysqli_connect('localhost','root','','mydb');
+	      $connect =mysqli_connect('3.132.234.157','tienloc','tienloc123','tsasm');
 	      if($connect){
 	      	echo "kết nối thành công";
 	      }
@@ -80,7 +80,7 @@
 	      if($result){
 	      	echo "<br>";
 	      	echo "<script> alert('thêm mới thành công')</script>";
-	      	header("login.php"'_self');
+	      	header("login.php");
 	      }
 	      else{
 	      	echo "<script> alert('thêm mới thất bại')</script>";
