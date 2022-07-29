@@ -183,10 +183,10 @@
             <div class="mainheader">
                 <ul>
                     <li><a href="#">Trang chủ</a></li>
-                    <li><a href="gioithieu.php">Giới Thiệu</a></li>
-                    <li><a href="login.php">Đăng Nhập</a></li>
-                    <li><a href="register.php">Đăng ký</a></li>
-                    <li><a href="add_product">Thêm Sản Phẩm</a></li>
+                    <li><a href="gioithieu.php" target="_blank">Giới Thiệu</a></li>
+                    <li><a href="login.php" target="_blank">Đăng Nhập</a></li>
+                    <li><a href="register.php" target="_blank">Đăng ký</a></li>
+                    <li><a href="add_product" target="_blank">Thêm Sản Phẩm</a></li>
                 </ul>
             </div>
         </div>
