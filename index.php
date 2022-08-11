@@ -211,7 +211,7 @@
                 <p><img src="luutruanh/head.jpg" width="1140px" height="400px" /></p>
                 <div>
                     <?php
-                        $connect = mysqli_connect('3.132.234.157','tienloc','tienloc123','tsasm');
+                        $connect = mysqli_connect('3.132.234.157','tienloc','tienloc123','tsasm2');
                         if(!$connect){
                             echo "Kết nối thất bại";
                         } 
