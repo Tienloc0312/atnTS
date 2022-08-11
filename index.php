@@ -182,7 +182,7 @@
             </div>
             <div class="mainheader">
                 <ul>
-                    <li><a href="Index.php">Trang chủ</a></li>
+                    <li><a href="Index.php" target="_blank">Trang chủ</a></li>
                     <li><a href="gioithieu.php" target="_blank">Giới Thiệu</a></li>
                     <li><a href="login.php" target="_blank">Đăng Nhập</a></li>
                     <li><a href="register.php" target="_blank">Đăng ký</a></li>
